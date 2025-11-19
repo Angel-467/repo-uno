@@ -2,4 +2,4 @@
 primer repo en GITHUB
 
 ## descripcion
-este es un commit creado por mi 
+este no es un commit
