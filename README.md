@@ -1,4 +1,4 @@
 # papa-dalto
 primer repo en GITHUB
-##Descripcion
+##descripcion
 este es un commit creado por mi 
